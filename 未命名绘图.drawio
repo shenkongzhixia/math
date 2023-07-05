@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-05T13:37:46.903Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="PtcYbhhA9zeYqPpoEn7P" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-05T13:40:33.866Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="HclSexYpRwU2ZHa0xOjQ" version="21.5.2" type="github">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
     <mxGraphModel dx="1050" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -129,10 +129,10 @@
           <mxGeometry x="210" y="270" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MrxemqDh9cEqvJGh6Go7-9" value="精轧" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="110" width="340" height="1010" as="geometry" />
+          <mxGeometry x="1430" y="140" width="340" height="1160" as="geometry" />
         </mxCell>
         <mxCell id="MrxemqDh9cEqvJGh6Go7-37" value="精轧出口侧" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="MrxemqDh9cEqvJGh6Go7-9">
-          <mxGeometry x="10" y="820" width="320" height="180" as="geometry" />
+          <mxGeometry x="10" y="950" width="320" height="180" as="geometry" />
         </mxCell>
         <mxCell id="MrxemqDh9cEqvJGh6Go7-38" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;射线测厚仪&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="MrxemqDh9cEqvJGh6Go7-37">
           <mxGeometry x="10" y="50" width="90" height="50" as="geometry" />
@@ -156,7 +156,7 @@
           <mxGeometry x="100" y="40" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MrxemqDh9cEqvJGh6Go7-57" value="工艺参数" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="MrxemqDh9cEqvJGh6Go7-9">
-          <mxGeometry x="10" y="200" width="320" height="610" as="geometry" />
+          <mxGeometry x="10" y="200" width="320" height="730" as="geometry" />
         </mxCell>
         <mxCell id="MrxemqDh9cEqvJGh6Go7-10" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;精轧速度&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="MrxemqDh9cEqvJGh6Go7-57">
           <mxGeometry x="10" y="30" width="120" height="80" as="geometry" />
@@ -165,7 +165,7 @@
           <mxGeometry x="190" y="30" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MrxemqDh9cEqvJGh6Go7-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;粗轧机组机座间距&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="MrxemqDh9cEqvJGh6Go7-57">
-          <mxGeometry x="190" y="340" width="120" height="80" as="geometry" />
+          <mxGeometry x="190" y="440" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MrxemqDh9cEqvJGh6Go7-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="MrxemqDh9cEqvJGh6Go7-57" source="MrxemqDh9cEqvJGh6Go7-11" target="MrxemqDh9cEqvJGh6Go7-84">
           <mxGeometry relative="1" as="geometry" />
@@ -190,17 +190,32 @@
         <mxCell id="MrxemqDh9cEqvJGh6Go7-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="MrxemqDh9cEqvJGh6Go7-57" source="MrxemqDh9cEqvJGh6Go7-11" target="MrxemqDh9cEqvJGh6Go7-96">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="MrxemqDh9cEqvJGh6Go7-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="MrxemqDh9cEqvJGh6Go7-57" source="MrxemqDh9cEqvJGh6Go7-11" target="MrxemqDh9cEqvJGh6Go7-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MrxemqDh9cEqvJGh6Go7-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="MrxemqDh9cEqvJGh6Go7-57" source="MrxemqDh9cEqvJGh6Go7-11" target="MrxemqDh9cEqvJGh6Go7-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MrxemqDh9cEqvJGh6Go7-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="MrxemqDh9cEqvJGh6Go7-57" source="MrxemqDh9cEqvJGh6Go7-11" target="MrxemqDh9cEqvJGh6Go7-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MrxemqDh9cEqvJGh6Go7-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="MrxemqDh9cEqvJGh6Go7-57" source="MrxemqDh9cEqvJGh6Go7-11" target="MrxemqDh9cEqvJGh6Go7-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MrxemqDh9cEqvJGh6Go7-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="MrxemqDh9cEqvJGh6Go7-57" source="MrxemqDh9cEqvJGh6Go7-11" target="MrxemqDh9cEqvJGh6Go7-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MrxemqDh9cEqvJGh6Go7-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;轧制道次序号（无序类别型）&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="MrxemqDh9cEqvJGh6Go7-57">
           <mxGeometry x="10" y="130" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MrxemqDh9cEqvJGh6Go7-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;精轧前的边部加入装置（离散型）&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="MrxemqDh9cEqvJGh6Go7-57">
-          <mxGeometry x="10" y="340" width="120" height="80" as="geometry" />
+          <mxGeometry x="10" y="440" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MrxemqDh9cEqvJGh6Go7-24" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;边部加热器（无序类别型）&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="MrxemqDh9cEqvJGh6Go7-57">
-          <mxGeometry x="190" y="430" width="120" height="80" as="geometry" />
+          <mxGeometry x="190" y="530" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MrxemqDh9cEqvJGh6Go7-34" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;终轧温度&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="MrxemqDh9cEqvJGh6Go7-57">
-          <mxGeometry x="10" y="430" width="120" height="80" as="geometry" />
+          <mxGeometry x="10" y="530" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MrxemqDh9cEqvJGh6Go7-84" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;速度分配&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="MrxemqDh9cEqvJGh6Go7-57">
           <mxGeometry x="190" y="80" width="80" height="40" as="geometry" />
@@ -209,10 +224,10 @@
           <mxGeometry x="190" y="130" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MrxemqDh9cEqvJGh6Go7-90" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;带材出口速度&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="MrxemqDh9cEqvJGh6Go7-57">
-          <mxGeometry x="10" y="520" width="120" height="80" as="geometry" />
+          <mxGeometry x="10" y="620" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MrxemqDh9cEqvJGh6Go7-91" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;带材出口厚度&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="MrxemqDh9cEqvJGh6Go7-57">
-          <mxGeometry x="190" y="520" width="120" height="80" as="geometry" />
+          <mxGeometry x="190" y="620" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MrxemqDh9cEqvJGh6Go7-92" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;入口厚度&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="MrxemqDh9cEqvJGh6Go7-57">
           <mxGeometry x="190" y="180" width="80" height="40" as="geometry" />
@@ -222,6 +237,21 @@
         </mxCell>
         <mxCell id="MrxemqDh9cEqvJGh6Go7-96" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;相对压下量&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="MrxemqDh9cEqvJGh6Go7-57">
           <mxGeometry x="190" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MrxemqDh9cEqvJGh6Go7-98" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;宽度&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="MrxemqDh9cEqvJGh6Go7-57">
+          <mxGeometry x="40" y="230" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MrxemqDh9cEqvJGh6Go7-101" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;长度&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="MrxemqDh9cEqvJGh6Go7-57">
+          <mxGeometry x="40" y="285" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MrxemqDh9cEqvJGh6Go7-102" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;咬入速度&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="MrxemqDh9cEqvJGh6Go7-57">
+          <mxGeometry x="40" y="345" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MrxemqDh9cEqvJGh6Go7-103" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;最大速度&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="MrxemqDh9cEqvJGh6Go7-57">
+          <mxGeometry x="190" y="328" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MrxemqDh9cEqvJGh6Go7-104" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;工作辊直径&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="MrxemqDh9cEqvJGh6Go7-57">
+          <mxGeometry x="190" y="376" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MrxemqDh9cEqvJGh6Go7-18" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;板凸度&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="730" width="120" height="80" as="geometry" />
