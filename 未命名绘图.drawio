@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-05T13:29:54.277Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="eoM4hBSeTfEqskQc-ueA" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-05T13:33:12.819Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Y8t_BF233Zqx13Yjc2bk" version="21.5.2" type="github">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
-    <mxGraphModel dx="875" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -161,7 +161,7 @@
         <mxCell id="MrxemqDh9cEqvJGh6Go7-10" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;精轧速度&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="MrxemqDh9cEqvJGh6Go7-57">
           <mxGeometry x="10" y="30" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MrxemqDh9cEqvJGh6Go7-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;各轧制道次压下量&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="MrxemqDh9cEqvJGh6Go7-57">
+        <mxCell id="MrxemqDh9cEqvJGh6Go7-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;压下量&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="MrxemqDh9cEqvJGh6Go7-57">
           <mxGeometry x="190" y="30" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MrxemqDh9cEqvJGh6Go7-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;粗轧机组机座间距&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="MrxemqDh9cEqvJGh6Go7-57">
@@ -193,10 +193,10 @@
         <mxCell id="MrxemqDh9cEqvJGh6Go7-34" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;终轧温度&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="MrxemqDh9cEqvJGh6Go7-57">
           <mxGeometry x="10" y="415" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MrxemqDh9cEqvJGh6Go7-84" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;各机座的速度分配&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="MrxemqDh9cEqvJGh6Go7-57">
+        <mxCell id="MrxemqDh9cEqvJGh6Go7-84" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;速度分配&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="MrxemqDh9cEqvJGh6Go7-57">
           <mxGeometry x="190" y="130" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MrxemqDh9cEqvJGh6Go7-85" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;各机座的温度降&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="MrxemqDh9cEqvJGh6Go7-57">
+        <mxCell id="MrxemqDh9cEqvJGh6Go7-85" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;温度降&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="MrxemqDh9cEqvJGh6Go7-57">
           <mxGeometry x="190" y="230" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MrxemqDh9cEqvJGh6Go7-90" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;带材出口速度&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="MrxemqDh9cEqvJGh6Go7-57">
