@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-05T12:26:50.052Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="tW4qEIr9OII6PGRS8qS6" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-05T12:27:22.071Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="CvRCrlR6qcWTztDcrQz_" version="21.5.2" type="github">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
     <mxGraphModel dx="1050" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -187,16 +187,16 @@
         <mxCell id="MrxemqDh9cEqvJGh6Go7-59" value="工艺参数" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="MrxemqDh9cEqvJGh6Go7-55">
           <mxGeometry x="15" y="40" width="320" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="MrxemqDh9cEqvJGh6Go7-60" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;轧制速度&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="MrxemqDh9cEqvJGh6Go7-59">
+        <mxCell id="MrxemqDh9cEqvJGh6Go7-60" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;卷曲温度&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="MrxemqDh9cEqvJGh6Go7-59">
           <mxGeometry x="20" y="30" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MrxemqDh9cEqvJGh6Go7-61" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;轧制压下量&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="MrxemqDh9cEqvJGh6Go7-59">
+        <mxCell id="MrxemqDh9cEqvJGh6Go7-61" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;冷却水总量&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="MrxemqDh9cEqvJGh6Go7-59">
           <mxGeometry x="180" y="30" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MrxemqDh9cEqvJGh6Go7-62" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;粗轧机组机座间距&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="MrxemqDh9cEqvJGh6Go7-59">
           <mxGeometry x="180" y="130" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MrxemqDh9cEqvJGh6Go7-63" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;轧制道次序号（无序类别型）&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="MrxemqDh9cEqvJGh6Go7-59">
+        <mxCell id="MrxemqDh9cEqvJGh6Go7-63" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;冷却速率&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="MrxemqDh9cEqvJGh6Go7-59">
           <mxGeometry x="20" y="130" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MrxemqDh9cEqvJGh6Go7-64" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;精轧前的边部加入装置（离散型）&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="MrxemqDh9cEqvJGh6Go7-59">
