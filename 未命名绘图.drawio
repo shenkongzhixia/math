@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-09T13:44:49.188Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="GT1OAFulXNSBcFWiiZ1p" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-09T13:46:25.638Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ucIrrNG6Nj1liA-kkXow" version="21.5.2" type="github">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
     <mxGraphModel dx="2600" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -346,6 +346,9 @@
           <mxGeometry x="0.3383" y="5" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="x8T7WH77F0d3Egp_9vnh-45" value="其他工艺生产参数" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2220" y="70" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
