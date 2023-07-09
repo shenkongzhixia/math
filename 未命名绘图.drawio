@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-09T13:48:02.342Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="NS6B0c58Oo-SKhYtlwzr" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-09T13:50:22.115Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="x5PGaiGa2gJ-8oy_37xO" version="21.5.2" type="github">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
     <mxGraphModel dx="2600" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -348,7 +348,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x8T7WH77F0d3Egp_9vnh-45" value="其他工艺生产参数" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2440" y="120" width="380" height="430" as="geometry" />
+          <mxGeometry x="2440" y="120" width="380" height="480" as="geometry" />
         </mxCell>
         <mxCell id="x8T7WH77F0d3Egp_9vnh-46" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;产品厚度&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="x8T7WH77F0d3Egp_9vnh-45">
           <mxGeometry x="50" y="40" width="120" height="80" as="geometry" />
@@ -361,6 +361,18 @@
         </mxCell>
         <mxCell id="x8T7WH77F0d3Egp_9vnh-49" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;含锰量&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="x8T7WH77F0d3Egp_9vnh-45">
           <mxGeometry x="200" y="150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x8T7WH77F0d3Egp_9vnh-50" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;屈服强度&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="x8T7WH77F0d3Egp_9vnh-45">
+          <mxGeometry x="50" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x8T7WH77F0d3Egp_9vnh-60" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;抗拉强度&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="x8T7WH77F0d3Egp_9vnh-45">
+          <mxGeometry x="200" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x8T7WH77F0d3Egp_9vnh-61" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;伸长率&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="x8T7WH77F0d3Egp_9vnh-45">
+          <mxGeometry x="50" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x8T7WH77F0d3Egp_9vnh-62" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;显微强度&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="x8T7WH77F0d3Egp_9vnh-45">
+          <mxGeometry x="200" y="350" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
