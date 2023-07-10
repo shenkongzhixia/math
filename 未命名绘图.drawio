@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-10T01:51:15.117Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="2KCw0dgLJhEF-0Y9KqW1" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-10T02:03:09.425Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="kuwe0CUx52D2Lo3UfSM3" version="21.5.2" type="github">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
     <mxGraphModel dx="2600" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -86,13 +86,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MrxemqDh9cEqvJGh6Go7-79" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;粗轧速度&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="tU_RkVk5_5bCf6Fj4NFK-28" vertex="1">
-          <mxGeometry x="30" y="270" width="120" height="80" as="geometry" />
+          <mxGeometry x="210" y="370" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MrxemqDh9cEqvJGh6Go7-80" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;总压下量&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="tU_RkVk5_5bCf6Fj4NFK-28" vertex="1">
           <mxGeometry x="210" y="50" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="MrxemqDh9cEqvJGh6Go7-81" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;粗轧道次数&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="tU_RkVk5_5bCf6Fj4NFK-28" vertex="1">
-          <mxGeometry x="210" y="390" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MrxemqDh9cEqvJGh6Go7-82" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;轧制道次的温度降&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="tU_RkVk5_5bCf6Fj4NFK-28" vertex="1">
           <mxGeometry x="210" y="270" width="120" height="80" as="geometry" />
@@ -102,6 +99,14 @@
         </mxCell>
         <mxCell id="x8T7WH77F0d3Egp_9vnh-88" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;粗轧机组机座数目&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="tU_RkVk5_5bCf6Fj4NFK-28">
           <mxGeometry x="30" y="490" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x8T7WH77F0d3Egp_9vnh-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="tU_RkVk5_5bCf6Fj4NFK-28" source="x8T7WH77F0d3Egp_9vnh-99" target="MrxemqDh9cEqvJGh6Go7-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x8T7WH77F0d3Egp_9vnh-105" value="增加" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x8T7WH77F0d3Egp_9vnh-104">
+          <mxGeometry x="-0.1429" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="x8T7WH77F0d3Egp_9vnh-99" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;轧件温度降&amp;nbsp;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="tU_RkVk5_5bCf6Fj4NFK-28">
           <mxGeometry x="210" y="490" width="120" height="80" as="geometry" />
