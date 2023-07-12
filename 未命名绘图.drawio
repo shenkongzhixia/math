@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T03:50:31.832Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="3exCDV9W835tkUWM7f7_" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-12T03:53:09.111Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="NTrqsYVAiV_8sEHLGT1L" version="21.6.2" type="github">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
     <mxGraphModel dx="2150" dy="1399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -572,6 +572,12 @@
             <mxPoint x="1110" y="80" as="sourcePoint" />
             <mxPoint x="1160" y="30" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="2-pt19GpN_BmYCQ5e3oG-45" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;有温度传感器的设备：&lt;br&gt;加热炉&lt;br&gt;二辊机座&lt;br&gt;四辊机座&lt;br&gt;边部加热器&lt;br&gt;层流冷却&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-110" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="2-pt19GpN_BmYCQ5e3oG-46" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;有检测轧制力的设备：&lt;br&gt;定宽压力机&lt;br&gt;立辊、二辊、四辊机座&lt;br&gt;PC轧机&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="740" y="-110" width="160" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
