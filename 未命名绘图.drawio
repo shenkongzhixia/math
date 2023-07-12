@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T03:38:47.333Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="luh8gRwIB3evRyy1kyB4" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-12T03:50:31.832Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="3exCDV9W835tkUWM7f7_" version="21.6.2" type="github">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
     <mxGraphModel dx="2150" dy="1399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
           <mxGeometry x="-400" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tU_RkVk5_5bCf6Fj4NFK-19" value="加热炉" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
-          <mxGeometry x="330" y="110" width="340" height="590" as="geometry" />
+          <mxGeometry x="630" y="110" width="340" height="590" as="geometry" />
         </mxCell>
         <mxCell id="tU_RkVk5_5bCf6Fj4NFK-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;装炉温度&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="tU_RkVk5_5bCf6Fj4NFK-19" vertex="1">
           <mxGeometry x="190" y="60" width="120" height="80" as="geometry" />
@@ -350,7 +350,7 @@
           <mxGeometry x="170" y="210" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="x8T7WH77F0d3Egp_9vnh-35" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;终轧温度&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="370" width="120" height="80" as="geometry" />
+          <mxGeometry x="490" y="370" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="x8T7WH77F0d3Egp_9vnh-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="x8T7WH77F0d3Egp_9vnh-35" target="tU_RkVk5_5bCf6Fj4NFK-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -463,18 +463,6 @@
           <mxGeometry x="-0.08" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="x8T7WH77F0d3Egp_9vnh-83" value="立辊基座" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="700" y="110" width="340" height="590" as="geometry" />
-        </mxCell>
-        <mxCell id="x8T7WH77F0d3Egp_9vnh-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="x8T7WH77F0d3Egp_9vnh-83" source="x8T7WH77F0d3Egp_9vnh-85" target="x8T7WH77F0d3Egp_9vnh-86" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="x8T7WH77F0d3Egp_9vnh-85" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;侧压量&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="x8T7WH77F0d3Egp_9vnh-83" vertex="1">
-          <mxGeometry x="10" y="50" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="x8T7WH77F0d3Egp_9vnh-86" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;调节板坯定宽&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="x8T7WH77F0d3Egp_9vnh-83" vertex="1">
-          <mxGeometry x="210" y="50" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="E_4XAxl3qm20KjA-JJ0x-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;各种形式传统热带钢连轧机的精轧机组和精整机组基本上是相同的，粗轧机组的布置形式和工作制度不同，各个工作机座的机型和结构基本是相同的。&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1130" y="-80" width="450" height="90" as="geometry" />
