@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T03:24:44.998Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="RlADnmvGV2lQPMrNbuK1" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-12T03:38:47.333Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="luh8gRwIB3evRyy1kyB4" version="21.6.2" type="github">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
     <mxGraphModel dx="2150" dy="1399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -345,6 +345,9 @@
         </mxCell>
         <mxCell id="2-pt19GpN_BmYCQ5e3oG-43" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;卷筒速度&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="MrxemqDh9cEqvJGh6Go7-72">
           <mxGeometry x="10" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2-pt19GpN_BmYCQ5e3oG-44" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;压力传感器&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="MrxemqDh9cEqvJGh6Go7-72">
+          <mxGeometry x="170" y="210" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="x8T7WH77F0d3Egp_9vnh-35" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;终轧温度&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="370" width="120" height="80" as="geometry" />
