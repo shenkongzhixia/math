@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T02:25:40.190Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="OLZeaK6FEdL3qKIl0G70" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-12T02:29:13.574Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="z_Lor8vgEOI1SVSaXbdI" version="21.6.2" type="github">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
     <mxGraphModel dx="2150" dy="1399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -47,7 +47,7 @@
           <mxGeometry x="190" y="160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tU_RkVk5_5bCf6Fj4NFK-28" value="粗轧" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
-          <mxGeometry x="1050" y="110" width="340" height="1250" as="geometry" />
+          <mxGeometry x="1050" y="110" width="340" height="1370" as="geometry" />
         </mxCell>
         <mxCell id="E_4XAxl3qm20KjA-JJ0x-14" value="定宽压力机（P106）:侧压调宽" style="swimlane;whiteSpace=wrap;html=1;" parent="tU_RkVk5_5bCf6Fj4NFK-28" vertex="1">
           <mxGeometry x="10" y="40" width="320" height="380" as="geometry" />
@@ -89,10 +89,25 @@
           <mxGeometry x="190" y="120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2-pt19GpN_BmYCQ5e3oG-23" value="二辊机座（P121）（调宽）" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="tU_RkVk5_5bCf6Fj4NFK-28">
-          <mxGeometry x="10" y="660" width="320" height="210" as="geometry" />
+          <mxGeometry x="10" y="660" width="320" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="2-pt19GpN_BmYCQ5e3oG-35" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;轧制速度&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="2-pt19GpN_BmYCQ5e3oG-23">
+          <mxGeometry x="10" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2-pt19GpN_BmYCQ5e3oG-36" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;主电机功率&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="2-pt19GpN_BmYCQ5e3oG-23">
+          <mxGeometry x="190" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2-pt19GpN_BmYCQ5e3oG-37" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;主电机转速&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="2-pt19GpN_BmYCQ5e3oG-23">
+          <mxGeometry x="10" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2-pt19GpN_BmYCQ5e3oG-38" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;最大轧制压力&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="2-pt19GpN_BmYCQ5e3oG-23">
+          <mxGeometry x="190" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2-pt19GpN_BmYCQ5e3oG-39" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;最大轧制力矩&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="2-pt19GpN_BmYCQ5e3oG-23">
+          <mxGeometry x="10" y="210" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2-pt19GpN_BmYCQ5e3oG-28" value="四辊机座（P121）（调宽）" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="tU_RkVk5_5bCf6Fj4NFK-28">
-          <mxGeometry x="10" y="890" width="320" height="310" as="geometry" />
+          <mxGeometry x="10" y="1000" width="320" height="310" as="geometry" />
         </mxCell>
         <mxCell id="2-pt19GpN_BmYCQ5e3oG-29" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;轧制速度&lt;br&gt;（R2、R3和R4）&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="2-pt19GpN_BmYCQ5e3oG-28">
           <mxGeometry x="10" y="40" width="120" height="80" as="geometry" />
